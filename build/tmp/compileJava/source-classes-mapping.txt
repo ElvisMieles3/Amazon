@@ -1,0 +1,14 @@
+com/amazon/certification/userinterfaces/Home.java
+ com.amazon.certification.userinterfaces.Home
+com/amazon/certification/exceptions/NoStock.java
+ com.amazon.certification.exceptions.NoStock
+com/amazon/certification/userinterfaces/ResultsPage.java
+ com.amazon.certification.userinterfaces.ResultsPage
+com/amazon/certification/userinterfaces/Product.java
+ com.amazon.certification.userinterfaces.Product
+com/amazon/certification/tasks/Search.java
+ com.amazon.certification.tasks.Search
+com/amazon/certification/questions/SeeThe.java
+ com.amazon.certification.questions.SeeThe
+com/amazon/certification/tasks/ChangeResult.java
+ com.amazon.certification.tasks.ChangeResult

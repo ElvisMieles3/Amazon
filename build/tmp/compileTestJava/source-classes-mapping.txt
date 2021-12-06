@@ -1,0 +1,6 @@
+com/amazon/certification/setup/AmazonHooks.java
+ com.amazon.certification.setup.AmazonHooks
+com/amazon/certification/stepdefinitions/SearchProductStepDefinitions.java
+ com.amazon.certification.stepdefinitions.SearchProductStepDefinitions
+com/amazon/certification/runners/SearchProduct.java
+ com.amazon.certification.runners.SearchProduct
